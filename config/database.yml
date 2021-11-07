@@ -26,10 +26,10 @@ default: &default
   adapter: sqlserver
   encoding: utf8
   reconnect: false
-  username: sa
-  password: referencia
+  username: 
+  password: 
   timeout: 25
-  host: 172.16.30.73
+  host: 
 
 
 development:
