@@ -65,5 +65,5 @@ test:
 production:
   <<: *default
   database: RHMercuryPrueba
-  username: sa
-  password: referencia
+  username: 
+  password: 
